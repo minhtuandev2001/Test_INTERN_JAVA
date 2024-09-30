@@ -672,7 +672,7 @@
 	"variable": [
 		{
 			"key": "baseUrl",
-			"value": "http://localhost:8080",
+			"value": "https://testinternjava-production-b30a.up.railway.app",
 			"type": "string"
 		}
 	]
